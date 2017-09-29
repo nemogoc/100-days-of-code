@@ -10,3 +10,6 @@ Started at 4:30: Worked on applied visual design section of FCC beta front end c
 192.4
 
 ### R1D2
+Started accessibility section. The 5 hours estimated seems like a placeholder, so I'm closer to the project than expected, which is good.
+
+192.2
