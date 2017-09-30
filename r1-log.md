@@ -15,3 +15,6 @@ Started at 4:30: Worked on applied visual design section of FCC beta front end c
 192.2
 
 ### R1D3 - 9/30
+9:30: Started and finished Responsive Web Design Principles. Seems clear they're relying on frameworks or some other later lesson to really get in depth on it, since this section took maybe 20 minutes. Helpful stuff about scaling based on viewport size though. Starting Flexbox section, which may actually take a few hours. Or at least an hour. Maybe. justify-content seems useful.
+
+189.4
