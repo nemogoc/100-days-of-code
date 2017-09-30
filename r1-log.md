@@ -14,4 +14,4 @@ Started at 4:30: Worked on applied visual design section of FCC beta front end c
 
 192.2
 
-### R1D3 - 
+### R1D3 - 9/30
