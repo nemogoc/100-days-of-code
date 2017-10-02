@@ -20,6 +20,6 @@ Started at 16:30: Worked on applied visual design section of FCC beta front end 
 189.4
 
 ### R1D4 - 10/1
-20:20: Finished CSS Flexbox lessons. Tons of useful alignment, wrapping, and responsive stuff there. On to the projects, but that seems like a good stopping point for tonight. Did sign up for CodePen, though I may want to use WebStorm..
+20:20: Finished CSS Flexbox lessons. Tons of useful alignment, wrapping, and responsive stuff there. On to the projects, but that seems like a good stopping point for tonight. Did sign up for CodePen, though I may want to use WebStorm.. Also set up SSH key for github
 
 189.6
