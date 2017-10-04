@@ -27,4 +27,10 @@ Started at 16:30: Worked on applied visual design section of FCC beta front end 
 ### R1D5 - 10/2
 17:25: Starting Tribute project, in codepen for now. Passed all tests, with some layout and CSS tweaks still needed to move on. Submitted it to FCC as is, will finish tomorrow.
 
-188.4
+188.4 Failed. Next failure 10/16
+
+### R1D6 - 10/3
+19:50: Finished Tribute project and exported from CodePen to GitHub. Set up WebStorm.
+Maybe do http://learnlayout.com/index.html tomorrow?
+
+190.2
