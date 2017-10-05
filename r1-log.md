@@ -39,3 +39,7 @@ Maybe do http://learnlayout.com/index.html tomorrow?
 20:00 Working through learnlayout.com to review/supplement FCC layout info. Might be older info, but good review of the basics.
 
 XXX.X <-- life insurance exam today, 191.2
+
+### R1D8 - 10/5
+07:00 Finished learnlayout.com in 20 minutes or so. Lots of detail about flex layouts, seems useful.
+188.8
