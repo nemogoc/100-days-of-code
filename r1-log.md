@@ -34,3 +34,8 @@ Started at 16:30: Worked on applied visual design section of FCC beta front end 
 Maybe do http://learnlayout.com/index.html tomorrow?
 
 190.2
+
+### R1D7 - 10/4
+20:00 Working through learnlayout.com to review/supplement FCC layout info. Might be older info, but good review of the basics.
+
+XXX.X <-- life insurance exam today, 191.2
