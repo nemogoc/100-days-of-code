@@ -42,4 +42,12 @@ XXX.X <-- life insurance exam today, 191.2
 
 ### R1D8 - 10/5
 07:00 Finished learnlayout.com in 20 minutes or so. Lots of detail about flex layouts, seems useful.
+19:30 Started Survey Form project. I was able to get all the test passing, but this reminded me I skipped the forms section on beta FCC, so I need to go back and take notes on that. Maybe tomorrow?
+
 188.8
+
+### R1D9 - 10/6
+11:00 Reviewed form sections on FCC and took notes.
+14:00 CSS work on Survey project
+
+
