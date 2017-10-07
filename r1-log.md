@@ -50,4 +50,11 @@ XXX.X <-- life insurance exam today, 191.2
 11:00 Reviewed form sections on FCC and took notes.
 14:00 CSS work on Survey project
 
+189.2
 
+### R1D10 - 10/7
+08:00 CSS work on Survey project.
+
+187.8 (10am)
+
+### R1D11 - 
