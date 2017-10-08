@@ -48,12 +48,13 @@ XXX.X <-- life insurance exam today, 191.2
 
 ### R1D9 - 10/6
 11:00 Reviewed form sections on FCC and took notes.
-14:00 CSS work on Survey project
+14:00 CSS work on survey project
 
 189.2
 
 ### R1D10 - 10/7
-08:00 CSS work on Survey project.
+08:00 CSS work on survey project.
+17:00 Finished CSS work on survey project. Stole pretty button/dropdown/form CSS from example. Centered layout using margin: 0 auto; and made 2 row table (label    item) using display: inline-block.
 
 187.8 (10am)
 
