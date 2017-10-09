@@ -63,3 +63,8 @@ XXX.X <-- life insurance exam today, 191.2
 19:15 Resumed work, got all the content tests passing, just need the layout tests (plus all the CSS).
 
 187.4 (9am)
+
+### R1D12 - 10/9
+16:00 Having some issues with the CSS on the navbar on the product landing page.
+
+186
