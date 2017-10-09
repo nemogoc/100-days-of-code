@@ -61,3 +61,5 @@ XXX.X <-- life insurance exam today, 191.2
 ### R1D11 - 10/8
 11:30 Started work on product landing page. Got the fontawesome icon/text pack, which was helpful. Passed 11/16 tests
 19:15 Resumed work, got all the content tests passing, just need the layout tests (plus all the CSS).
+
+187.4 (9am)
