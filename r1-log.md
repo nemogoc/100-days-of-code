@@ -68,3 +68,8 @@ XXX.X <-- life insurance exam today, 191.2
 16:00 Having some issues with the CSS on the navbar on the product landing page.
 
 186
+
+### R1D13 - 10/10
+19:50 Adding a mediaquery to page. All tests pass. Need to mix things up a bit, so starting the simple JS lessons.
+
+185.6
