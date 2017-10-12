@@ -73,3 +73,8 @@ XXX.X <-- life insurance exam today, 191.2
 19:50 Adding a mediaquery to page. All tests pass. Need to mix things up a bit, so starting the simple JS lessons.
 
 185.6
+
+### R1D14 - 10/11
+20:45 Continued JS lessons. Didn't do full hour. Counting it for now, but I don't want to make a habit of it.
+
+185.8
