@@ -78,3 +78,8 @@ XXX.X <-- life insurance exam today, 191.2
 20:45 Continued JS lessons. Didn't do full hour. Counting it for now, but I don't want to make a habit of it.
 
 185.8
+
+### R1D15 - 10/12
+16:45 Continued JS lessons. Still working through the easy ones.
+
+185.8
