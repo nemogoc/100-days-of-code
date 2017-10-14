@@ -83,3 +83,8 @@ XXX.X <-- life insurance exam today, 191.2
 16:45 Continued JS lessons. Still working through the easy ones.
 
 185.8
+
+### R1D16 - 10/13
+20:00 Basic JS is wearing on me. I think I'm 1 hour or so away from done. 
+
+185.6
