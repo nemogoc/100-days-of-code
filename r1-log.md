@@ -88,3 +88,9 @@ XXX.X <-- life insurance exam today, 191.2
 20:00 Basic JS is wearing on me. I think I'm 1 hour or so away from done. 
 
 185.6
+
+### R1D17 - 10/21
+Skipped a bunch of days. This is technically against the rules for 100doc, but I'm going to keep going. I could say buying a house is my excuse, and that'd be sort of true, but it wasn't the whole story. Anyway...
+08:00 Finishing up Basic JS. Today, I learned about accessing object properties using array notation, which allows someone to iterate over properties of an object (create an array with all the names of the props, then loop object[objNamesArray[i]]). It also lets you access a property at runtime when you don't know which at compile time. I've ran in to needing to do this before, so it's cool I have a way now.
+
+185.4
