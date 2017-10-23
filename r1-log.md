@@ -94,3 +94,10 @@ Skipped a bunch of days. This is technically against the rules for 100doc, but I
 08:00 Finishing up Basic JS. Today, I learned about accessing object properties using array notation, which allows someone to iterate over properties of an object (create an array with all the names of the props, then loop object[objNamesArray[i]]). It also lets you access a property at runtime when you don't know which at compile time. I've ran in to needing to do this before, so it's cool I have a way now.
 
 185.4
+
+### R1D18 - 10/23
+I was away from home and actively busy for 18 hours yesterday, but this is becoming 100 days of excuses. Back to it. Every day when moving is busy, I need to make time for this.
+
+14:30 Objects in JS. Actually some lessons where I have to put some thought in, which is fun.
+
+184.6
