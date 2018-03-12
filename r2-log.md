@@ -63,3 +63,5 @@ Shorter time today, but still managed to complete section 25 & do the initial ro
 
 -------------------------------------------------------
 
+### R2D20 - 3/12
+06:50: Worked for about 30 minutes in the morning to implement adding new campgrounds to YC. Learning REST implementation.
