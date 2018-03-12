@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - nemogoc
 
-The log of my #100DaysOfCode challenge. Started on Sept 28, Thursday, 2017.
+The log of my #100DaysOfCode challenge. Started on Sept 28, Thursday, 2017. Failed due to buying house and moving, followed by holidays.
 
 ## Log
 
