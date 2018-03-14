@@ -69,3 +69,6 @@ Intended to get back to do remaining 30, but ended up not being possible.
 
 ### R2D21 - 3/13
 Worked through initial yelpcamp styling (end of section 26). Definitely feeling like the quality of TWDBC is slipping a bit. A lot more rushed implementations and bad edits. Hoping starting a more concrete topic like databases (section 27) will reground. Still like Bootstrap's grid system, but can't get excited about learning about it, and styling since I know it is fading. I think CSS Flexbox is a replacement, and I'm eager to get to that.
+
+### R2D22 - 3/14
+10:00 - Installed Mongo & finished section 27. Database & Authentication (section 32) are the last 2 things I'm really excited to learn with this course, so nice to get 1 of those started (more db stuff in the sections to come). I will probably put more time in later, but definitely hit the minimum so far.
