@@ -73,3 +73,6 @@ Worked through initial yelpcamp styling (end of section 26). Definitely feeling 
 ### R2D22 - 3/14
 10:00 - Installed Mongo & finished section 27. Database & Authentication (section 32) are the last 2 things I'm really excited to learn with this course, so nice to get 1 of those started (more db stuff in the sections to come). I will probably put more time in later, but definitely hit the minimum so far.
 16:15 - Added mongo to yelpcamp. Went really well, paused video before he did it, and it all worked great. He suggested 1 minor change, but my way wasn't wrong. Learned first four RESTful routes and implemented them.
+
+### R2D23 - 3/15
+19:00 Talked about all 7 RESTful routes & started the blog site that demonstrates them.
