@@ -76,3 +76,6 @@ Worked through initial yelpcamp styling (end of section 26). Definitely feeling 
 
 ### R2D23 - 3/15
 19:00 Talked about all 7 RESTful routes & started the blog site that demonstrates them.
+
+### R2D24 - 3/16
+16:00 Was able to complete the first 3 routes without any codealong, albeit unstyled. Definitely feel like I have the basics of routes down pat.
