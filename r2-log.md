@@ -79,3 +79,6 @@ Worked through initial yelpcamp styling (end of section 26). Definitely feeling 
 
 ### R2D24 - 3/16
 16:00 Was able to complete the first 3 routes without any codealong, albeit unstyled. Definitely feel like I have the basics of routes down pat.
+
+### R2D25 - 3/17
+Styled first 3 routes (codealong semantic UI) and added show route, with styling.
