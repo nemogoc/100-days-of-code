@@ -82,3 +82,6 @@ Worked through initial yelpcamp styling (end of section 26). Definitely feeling 
 
 ### R2D25 - 3/17
 Styled first 3 routes (codealong semantic UI) and added show route, with styling.
+
+### R2D26 - 3/18
+Finished remaining 3 routes.
