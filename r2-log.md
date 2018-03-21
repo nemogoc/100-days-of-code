@@ -88,3 +88,6 @@ Finished remaining 3 routes.
 
 ### R2D27 - 3/20
 Very sick the last few days. Couldn't do anything yesterday, so forced myself to do section 30 today - DB Associations & Module.exports. 
+
+### R2D28 - 3/21
+Started YelpCamp comment model stuff. Still pretty slow/low energy, but no difficulty learning.
