@@ -85,3 +85,6 @@ Styled first 3 routes (codealong semantic UI) and added show route, with styling
 
 ### R2D26 - 3/18
 Finished remaining 3 routes.
+
+### R2D27 - 3/20
+Very sick the last few days. Couldn't do anything yesterday, so forced myself to do section 30 today - DB Associations & Module.exports. 
