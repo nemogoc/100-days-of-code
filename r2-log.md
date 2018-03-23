@@ -91,3 +91,6 @@ Very sick the last few days. Couldn't do anything yesterday, so forced myself to
 
 ### R2D28 - 3/21
 Started YelpCamp comment model stuff. Still pretty slow/low energy, but no difficulty learning.
+
+### R2D29 - 3/22
+Added comments to show page
