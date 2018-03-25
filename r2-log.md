@@ -97,3 +97,6 @@ Added comments to show page
 
 ### R2D30 - 3/24
 Added the ability to add new comments. This was more or less the same as the other routes, but nested. We did refactor the routes to their own files though. Also styled the show page. Definitely styling is the weakest link of this class, imo. Lots of following along without much context.
+
+### R2D31 - 3/25
+Completed Section 32, Authentication. Definitely an interesting section, seems pretty easy to implement (using libraries, obviously). Discussed middleware too. I sort of knew what that was, but I feel much better in my understanding now. Will start section 33 to add auth to YC, but not expecting to get far today.
