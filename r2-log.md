@@ -94,3 +94,6 @@ Started YelpCamp comment model stuff. Still pretty slow/low energy, but no diffi
 
 ### R2D29 - 3/22
 Added comments to show page
+
+### R2D30 - 3/24
+Added the ability to add new comments. This was more or less the same as the other routes, but nested. We did refactor the routes to their own files though. Also styled the show page. Definitely styling is the weakest link of this class, imo. Lots of following along without much context.
