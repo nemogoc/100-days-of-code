@@ -100,4 +100,10 @@ Added the ability to add new comments. This was more or less the same as the oth
 
 ### R2D31 - 3/25
 Completed Section 32, Authentication. Definitely an interesting section, seems pretty easy to implement (using libraries, obviously). Discussed middleware too. I sort of knew what that was, but I feel much better in my understanding now. Will start section 33 to add auth to YC, but not expecting to get far today.
-Later: Ended up compleating section 33 as well, adding auth to yelpcamp. Fixed up my auth notes a bit, but since we're delegating most of auth, it came together pretty easily.
+Later: Ended up completing section 33 as well, adding auth to yelpcamp. Fixed up my auth notes a bit, but since we're delegating most of auth, it came together pretty easily.
+
+### R2D32 - 3/27
+Completed section 34, which added user association to comments and campgrounds. Only a 3 video section, so I expected it to be quick, but they were longer more involved videos, so took a little bit. Definitely on the home stretch here, would like to be done by next week, but the last section is huge, so we'll see.
+
+### R2D33 - 3/28
+Completed section 35 to edit/delete campgrounds and comments. Going a bit more into middleware, which is nice. At this point, most things seem to be more putting things I know together (along with a few new methods) rather than whole new concepts, but we'll see if that holds going forward.
