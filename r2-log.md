@@ -107,3 +107,8 @@ Completed section 34, which added user association to comments and campgrounds. 
 
 ### R2D33 - 3/28
 Completed section 35 to edit/delete campgrounds and comments. Going a bit more into middleware, which is nice. At this point, most things seem to be more putting things I know together (along with a few new methods) rather than whole new concepts, but we'll see if that holds going forward.
+
+### R2D34 - 3/29
+Completed sections 36 and 37. 36 added flash/lightbox messages, which was nice. Feels like the app is coming together. Also restyled the landing page. Skipped doing the dynamic pricing, since it was just another entry in the model, nothing new. 37 was git, which I knew already and watched 2x.
+Started Section 38, Heroku deploy. Basically just running through the Heroku setup docs, so not a ton of new info there. Down to Env Vars, which will be useful, and then advanced JS in section 39, then done!
+
