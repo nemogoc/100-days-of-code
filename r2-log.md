@@ -112,3 +112,6 @@ Completed section 35 to edit/delete campgrounds and comments. Going a bit more i
 Completed sections 36 and 37. 36 added flash/lightbox messages, which was nice. Feels like the app is coming together. Also restyled the landing page. Skipped doing the dynamic pricing, since it was just another entry in the model, nothing new. 37 was git, which I knew already and watched 2x.
 Started Section 38, Heroku deploy. Basically just running through the Heroku setup docs, so not a ton of new info there. Down to Env Vars, which will be useful, and then advanced JS in section 39, then done!
 
+### R2D35 - 3/30
+Completed env var & section 39. 39 was taught by Elie, who is one of the new instructors from the advanced class. Really liked his teaching style. Very careful with his language selection, and throrough. Explained `this` in a way that illuminated the weirdness of it to me.
+
