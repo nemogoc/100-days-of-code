@@ -115,3 +115,5 @@ Started Section 38, Heroku deploy. Basically just running through the Heroku set
 ### R2D35 - 3/30
 Completed env var & section 39. 39 was taught by Elie, who is one of the new instructors from the advanced class. Really liked his teaching style. Very careful with his language selection, and throrough. Explained `this` in a way that illuminated the weirdness of it to me.
 
+### R2D36 - 3/31
+Started Bootstrap 4 class, but it was written for the alpha. Apparently, stable syntax is very different. They claim they will be updating it shortly, so I'm going to skip it for now. Starting on AWDBC, with animations, which I realize are important, but I'm not excited by.
