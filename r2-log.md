@@ -117,3 +117,6 @@ Completed env var & section 39. 39 was taught by Elie, who is one of the new ins
 
 ### R2D36 - 3/31
 Started Bootstrap 4 class, but it was written for the alpha. Apparently, stable syntax is very different. They claim they will be updating it shortly, so I'm going to skip it for now. Starting on AWDBC, with animations, which I realize are important, but I'm not excited by.
+
+### R2D37 - 4/2
+Worked through more of CSS animations. Also found a better bootstrap 4 class.
