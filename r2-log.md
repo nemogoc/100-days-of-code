@@ -120,3 +120,6 @@ Started Bootstrap 4 class, but it was written for the alpha. Apparently, stable 
 
 ### R2D37 - 4/2
 Worked through more of CSS animations. Also found a better bootstrap 4 class.
+
+### R2D38 - 4/4
+Added all projects from TWDBC to github and did the very beginning of animated gallery project.
