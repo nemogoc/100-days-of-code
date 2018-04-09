@@ -123,3 +123,6 @@ Worked through more of CSS animations. Also found a better bootstrap 4 class.
 
 ### R2D38 - 4/4
 Added all projects from TWDBC to github and did the very beginning of animated gallery project.
+
+### R2D39 - 4/8
+Skipped a few days due to travelling and just needing a quick break. Excited to start back up. Built an animated gallery to demo transitions. Simple project, but cool how dramatically some simple animations change a page.
