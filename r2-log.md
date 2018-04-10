@@ -126,3 +126,6 @@ Added all projects from TWDBC to github and did the very beginning of animated g
 
 ### R2D39 - 4/8
 Skipped a few days due to travelling and just needing a quick break. Excited to start back up. Built an animated gallery to demo transitions. Simple project, but cool how dramatically some simple animations change a page.
+
+### R2D40 - 4/9
+Worked on keyframe animation section. Animations are definitely cool, but this still feels premature to be learning. It feels like end of project polish, and I still have plenty of questions about making the project in the first place.
