@@ -129,3 +129,6 @@ Skipped a few days due to travelling and just needing a quick break. Excited to 
 
 ### R2D40 - 4/9
 Worked on keyframe animation section. Animations are definitely cool, but this still feels premature to be learning. It feels like end of project polish, and I still have plenty of questions about making the project in the first place.
+
+### R2D41 - 4/12
+Did Sunrise animation, which I really enjoyed. I guess I was just sick hearing about animations, and I wanted to get down to it. Just the loading animation to go, then Flexbox, which I'm really looking forward to.
