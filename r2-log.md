@@ -132,3 +132,9 @@ Worked on keyframe animation section. Animations are definitely cool, but this s
 
 ### R2D41 - 4/12
 Did Sunrise animation, which I really enjoyed. I guess I was just sick hearing about animations, and I wanted to get down to it. Just the loading animation to go, then Flexbox, which I'm really looking forward to.
+
+### R2D42 - 4/14
+Did animation shorthand and loader project. Enjoyed it, but the things I learned were other CSS stuff, not animation stuff
+
+### R2D43 - 4/15
+Did a bunch of the Flexbox section. Seems useful, but I was equating Flexbox with Grid, and they're different things. I was excited about grid, and it doesn't look like we're going to cover that here. Flexbox is interesting and should be useful though.
