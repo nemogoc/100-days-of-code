@@ -138,3 +138,10 @@ Did animation shorthand and loader project. Enjoyed it, but the things I learned
 
 ### R2D43 - 4/15
 Did a bunch of the Flexbox section. Seems useful, but I was equating Flexbox with Grid, and they're different things. I was excited about grid, and it doesn't look like we're going to cover that here. Flexbox is interesting and should be useful though.
+
+### R2D44 - 4/18
+Finished Flexbox section and did the 2 projects.
+The Polygon.com widget helped demo the point of Flexbox. The fact that it was responsive without mediaqueries opened my eyes to some uses of this.
+The Holy Grail layout came together quickly. I still have some issues choosing (and am somewhat confused on) how to use nested flexbox containers. The way I did it worked, but it was a bit hacky. He had the entire layout be a column flex container. I just used rows with wrapping and forced the containers to be 100% of width.
+Lastly, started the startup site with Tim. Not a fan of Tim so far. As with the optional Tapatalk (or whatever) project in TWDBC Section 19, we used a bunch of CSS without going over it beforehand. Definitely a bit frustrating that we use Flexbox, then a bunch of relative and absolute positioning. Is that how it has to be done? 
+
