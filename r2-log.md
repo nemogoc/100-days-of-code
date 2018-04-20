@@ -145,3 +145,5 @@ The Polygon.com widget helped demo the point of Flexbox. The fact that it was re
 The Holy Grail layout came together quickly. I still have some issues choosing (and am somewhat confused on) how to use nested flexbox containers. The way I did it worked, but it was a bit hacky. He had the entire layout be a column flex container. I just used rows with wrapping and forced the containers to be 100% of width.
 Lastly, started the startup site with Tim. Not a fan of Tim so far. As with the optional Tapatalk (or whatever) project in TWDBC Section 19, we used a bunch of CSS without going over it beforehand. Definitely a bit frustrating that we use Flexbox, then a bunch of relative and absolute positioning. Is that how it has to be done? 
 
+### R2D45 - 4/19
+Finished the startup site. Can't say I learned a ton. Tim is not good at this. It was a demo of a project, not teaching a project. Still, the next section has a new guy who seems better so far, but I did just start.
