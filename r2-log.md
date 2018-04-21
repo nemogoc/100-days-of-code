@@ -150,3 +150,6 @@ Finished the startup site. Can't say I learned a ton. Matt is not good at this. 
 
 ### R2D46 - 4/20
 New guy Tim is better. Really enjoyed his talk about the call stack and event queue, although I did have to watch another video (great stuff: youtube.com/watch?v=8aGhZQkoFbQ) to really get a handle on it. Very surprising that JS has no interrupts for items on the event queue, but I guess you can avoid blocking.
+
+### R2D47 - 4/21
+Worked on AJAX with XHR. syntax is busy, but not difficult. Important for consuming APIs. Definitely thinking I have the tools to begin a real project here.
