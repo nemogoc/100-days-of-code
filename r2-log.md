@@ -146,4 +146,7 @@ The Holy Grail layout came together quickly. I still have some issues choosing (
 Lastly, started the startup site with Tim. Not a fan of Tim so far. As with the optional Tapatalk (or whatever) project in TWDBC Section 19, we used a bunch of CSS without going over it beforehand. Definitely a bit frustrating that we use Flexbox, then a bunch of relative and absolute positioning. Is that how it has to be done? 
 
 ### R2D45 - 4/19
-Finished the startup site. Can't say I learned a ton. Tim is not good at this. It was a demo of a project, not teaching a project. Still, the next section has a new guy who seems better so far, but I did just start.
+Finished the startup site. Can't say I learned a ton. Matt is not good at this. It was a demo of a project, not teaching a project. Still, the next section has a new guy who seems better so far, but I did just start.
+
+### R2D46 - 4/20
+New guy Tim is better. Really enjoyed his talk about the call stack and event queue, although I did have to watch another video (great stuff: youtube.com/watch?v=8aGhZQkoFbQ) to really get a handle on it. Very surprising that JS has no interrupts for items on the event queue, but I guess you can avoid blocking.
