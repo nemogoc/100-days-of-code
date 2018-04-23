@@ -153,3 +153,6 @@ New guy Tim is better. Really enjoyed his talk about the call stack and event qu
 
 ### R2D47 - 4/21
 Worked on AJAX with XHR. syntax is busy, but not difficult. Important for consuming APIs. Definitely thinking I have the tools to begin a real project here.
+
+### R2D48 - 4/22?
+Started fetch options, but ran out of time before a full hour. Will count it if I can make up the time tomorrow, since I made the effort, but we'll see.
