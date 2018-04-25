@@ -156,3 +156,7 @@ Worked on AJAX with XHR. syntax is busy, but not difficult. Important for consum
 
 ### R2D48 - 4/22-4/23
 Started fetch options, but ran out of time before a full hour. Started back up 4/23 and finished fetch, including the projects on the end, then started the next section.
+
+### R2D49 - 4/25
+Did jQuery/Axios AJAX section. Really enjoyed it. Just like with the last section, I felt like I was doing something that I will use a ton.
+
