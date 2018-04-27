@@ -160,3 +160,5 @@ Started fetch options, but ran out of time before a full hour. Started back up 4
 ### R2D49 - 4/25
 Did jQuery/Axios AJAX section. Really enjoyed it. Just like with the last section, I felt like I was doing something that I will use a ton.
 
+### R2D50 - 4/26
+Finished the Jasmine testing section. A little disappointed with Elie, who I was really impressed with before, but I felt that he didn't do a good enough job of laying out what he was teaching, then teaching it, then summarizing. I always felt like we were in the middle of a lesson of something that was introduced prior. The section felt like an afterthought also, although the intro to the next section says we'll be using it again, so maybe that'll improve. 
