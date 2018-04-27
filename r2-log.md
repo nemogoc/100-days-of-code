@@ -162,3 +162,6 @@ Did jQuery/Axios AJAX section. Really enjoyed it. Just like with the last sectio
 
 ### R2D50 - 4/26
 Finished the Jasmine testing section. A little disappointed with Elie, who I was really impressed with before, but I felt that he didn't do a good enough job of laying out what he was teaching, then teaching it, then summarizing. I always felt like we were in the middle of a lesson of something that was introduced prior. The section felt like an afterthought also, although the intro to the next section says we'll be using it again, so maybe that'll improve. 
+
+### R2D51 - 4/27
+Did a bit over half of the array method section -- forEach, map, filter -- and their accompanying exercises. This is clearly Elie's strength, as he was much clearer here (gives me a little hope for Tim in the d3 section). The exercises really helped too. I know I have a hard time thinking to use these methods when solving problems, so doing the exercises helped remind me where they're useful. I'm sure that'll still be a challenge though.
