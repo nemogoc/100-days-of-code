@@ -169,3 +169,6 @@ Did a bit over half of the array method section -- forEach, map, filter -- and t
 ### R2D52 - 4/30
 Did the rest of the array method section. I was really unhappy with my reduce exercises, but I only did one small thing differently than the solution video. I still think there's a better way, but that really helped my confidence.
 The next 3 sections will be review. I think the next 2 are exact copies of sections from TWDBC, and the 3rd is a quick run through express and node, so they should go quick. I'm not going to skip them though, just in case there's something new, but I imagine I'll be running them at 2x.
+
+### R2D53 - 5/1
+Glad I didn't skip through these sections. The videos themselves are mostly the same, but the exercises are really tough. Working on those today.
