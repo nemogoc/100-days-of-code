@@ -180,5 +180,5 @@ The next section was mostly review of JS OOP, with a few new things around proto
 ### R2D55 - 5/4
 Blew through the express/node/mongoose section. Vast majority was review.
 
-GOING ON VACATION FOR 10 DAYS, PAUSING UNTIL I'M BACK
+#### GOING ON VACATION FOR 10 DAYS, PAUSING UNTIL I'M BACK
 
