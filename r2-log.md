@@ -177,7 +177,10 @@ Glad I didn't skip through these sections. The videos themselves are mostly the 
 Ended up giving up on most of the Bind/Apply/Call exercises. Even the solution video was tough. Hoping examples of them in the wild will help, but I was getting bogged down with them, so I moved on.
 The next section was mostly review of JS OOP, with a few new things around prototypal inheritance. Finished that section. Next is express, which should mostly be review.
 
-GOING ON VACATION FOR 10 DAYS, PAUSING UNTIL I'M BACK
+### R2D55 - 5/4
+Blew through the express/node/mongoose section. Vast majority was review.
+
+#### GOING ON VACATION FOR 10 DAYS, PAUSING UNTIL I'M BACK
 
 ### R2D55 - 5/26
 Went on vacation, then got quite busy at work, so only restarting now.
