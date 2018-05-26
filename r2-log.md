@@ -179,3 +179,6 @@ The next section was mostly review of JS OOP, with a few new things around proto
 
 GOING ON VACATION FOR 10 DAYS, PAUSING UNTIL I'M BACK
 
+### R2D55 - 5/26
+Went on vacation, then got quite busy at work, so only restarting now.
+Did the todo codealong, but without c9, it was mostly just watching the video. Still, I learned or relearned a couple of things. I think I could do heartskeeper as an api and front end now, but it'll definitely be easier in react.
