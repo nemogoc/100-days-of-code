@@ -185,3 +185,10 @@ Blew through the express/node/mongoose section. Vast majority was review.
 ### R2D55 - 5/26
 Went on vacation, then got quite busy at work, so only restarting now.
 Did the todo codealong, but without c9, it was mostly just watching the video. Still, I learned or relearned a couple of things. I think I could do heartskeeper as an api and front end now, but it'll definitely be easier in react.
+
+### R2D56 - 5/27
+Started ES2015 section. const, let, template strings, and default params. All useful stuff, just have to remember to use it.
+
+### R2D57 - 5/28
+Continued ES2015 section. for...of loops, rest and spread operators. Started some very challenging exercises. The basic rest/spread is no problem, but the later exercises went back to closure and bind, which are still very challenging.
+
