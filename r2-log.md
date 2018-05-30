@@ -192,3 +192,7 @@ Started ES2015 section. const, let, template strings, and default params. All us
 ### R2D57 - 5/28
 Continued ES2015 section. for...of loops, rest and spread operators. Started some very challenging exercises. The basic rest/spread is no problem, but the later exercises went back to closure and bind, which are still very challenging.
 
+### R2D58 - 5/29
+Finished ES2015: shortcuts and destructuring. Definitely useful, weird syntax for destructuring, but I think I got it pretty quickly.
+
+
