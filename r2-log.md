@@ -195,4 +195,5 @@ Continued ES2015 section. for...of loops, rest and spread operators. Started som
 ### R2D58 - 5/29
 Finished ES2015: shortcuts and destructuring. Definitely useful, weird syntax for destructuring, but I think I got it pretty quickly.
 
-
+### R2D59 - 6/1
+Skipped ES2015 refactor project at work and went straight into part 2. Learned class, inheritance, super, etc. All very similar to Java.
