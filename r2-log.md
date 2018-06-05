@@ -197,3 +197,8 @@ Finished ES2015: shortcuts and destructuring. Definitely useful, weird syntax fo
 
 ### R2D59 - 6/1
 Skipped ES2015 refactor project at work and went straight into part 2. Learned class, inheritance, super, etc. All very similar to Java.
+
+### R2D60 - 6/5
+I've skipped several days multiple times, and summer is only going to get busier, so this is less a 100doc and more of a coding journal at this point. It's still helpful though, so I'm continuing.
+
+Did maps and sets videos and exercises. I had experience with these in other languages, so this wasn't too hard, but it was interesting. I wish their code solutions videos did more talking about why they chose to do things the way they did, but that's more of a complaint for the closure exercises where I was confused than these which I get.
