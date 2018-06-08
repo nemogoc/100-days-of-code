@@ -205,3 +205,6 @@ Did maps and sets videos and exercises. I had experience with these in other lan
 
 ### R2D61 - 6/7
 Finished up ES2015 part 2 section and the exercises. Lots of super useful stuff here, just have to think of using them (i.e. practice). Did Object.assign, Array.from, find/findIndex, includes, isFinite (for NaN checking), isInteger, and generators today.
+
+### R2D62 - 6/8
+Finished ES2016/2017 section. Next is d3. Thinking about skipping those sections for the react sections.
