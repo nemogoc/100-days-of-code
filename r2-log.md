@@ -208,3 +208,6 @@ Finished up ES2015 part 2 section and the exercises. Lots of super useful stuff 
 
 ### R2D62 - 6/8
 Finished ES2016/2017 section. Next is d3. Thinking about skipping those sections for the react sections.
+
+### R2D63 - 6/13
+Started D3 section. So far, the concepts have been pretty simple, so it's hard to evaluate Tim's teaching, but so far so good.
