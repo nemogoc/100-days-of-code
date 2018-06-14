@@ -211,3 +211,6 @@ Finished ES2016/2017 section. Next is d3. Thinking about skipping those sections
 
 ### R2D63 - 6/13
 Started D3 section. So far, the concepts have been pretty simple, so it's hard to evaluate Tim's teaching, but so far so good.
+
+### R2D64 - 6/14
+Went back and did some of the projects I skipped (Promises and async/await). Took a long time, but got a ton of value out of it. Definitely a good idea.
