@@ -214,3 +214,6 @@ Started D3 section. So far, the concepts have been pretty simple, so it's hard t
 
 ### R2D64 - 6/14
 Went back and did some of the projects I skipped (Promises and async/await). Took a long time, but got a ton of value out of it. Definitely a good idea.
+
+### R2D65 - 6/15
+Went back and finished the previous guess the password refactor, so I could do the d3 GtP project. Definitely halfassed the d3 version, since it was basically review. Finished the d3 section on selectors.  
